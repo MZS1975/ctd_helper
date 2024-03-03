@@ -16,4 +16,4 @@
 	url = https://github.com/jac3km4/redscript-capi.git
 [submodule "deps/mod_settings"]
 	path = deps/mod_settings
-	url = https://github.com/MZS1975/mod_settings.git
+	url = https://github.com/jackhumbert/mod_settings.git
