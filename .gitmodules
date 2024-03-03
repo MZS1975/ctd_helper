@@ -10,7 +10,7 @@
 	branch = new-types
 [submodule "deps/cyberpunk_cmake"]
 	path = deps/cyberpunk_cmake
-	url = https://github.com/MZS1975/cyberpunk_cmake.git
+	url = https://github.com/jackhumbert/cyberpunk_cmake.git
 [submodule "deps/redscript_capi"]
 	path = deps/redscript_capi
 	url = https://github.com/jac3km4/redscript-capi.git
